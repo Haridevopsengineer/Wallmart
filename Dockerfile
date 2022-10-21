@@ -1,2 +1,2 @@
 FROM tomcat:8
-COPY 
+COPY Wallmart/Shoes-v1.jar /usr/local/tomcat/webapps
